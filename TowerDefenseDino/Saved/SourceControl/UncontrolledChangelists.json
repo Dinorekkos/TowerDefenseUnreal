@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Azul 8/Documents/Unreal Projects/Dino/TowerDefense/TowerDefenseDino/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Azul 8/Documents/Unreal Projects/Dino/TowerDefense/TowerDefenseDino/Content/Dino/NewMap.umap",
+				"C:/Users/Azul 8/Documents/Unreal Projects/Dino/TowerDefense/TowerDefenseDino/Content/Dino/GameMode/TowerController.uasset"
+			]
+		}
+	]
+}
